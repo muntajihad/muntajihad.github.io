@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "BioinfoIQ"
 description: > # this means to ignore newlines until "email:"
-   Bioniformatics in Arabic
+   Bioinformatics in Arabic
 
 email: a-mail@mail.mail
 #blog logo
