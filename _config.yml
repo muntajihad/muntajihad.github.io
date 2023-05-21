@@ -14,7 +14,7 @@ logo: "/assets/images/bioinfoiq.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/facebook cover.png"
+cover: "/assets/images/cover.png"
 
 name: 'Bioinfoiq'
 author: 'Bioinfoiq'
